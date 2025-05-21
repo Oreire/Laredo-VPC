@@ -5,7 +5,7 @@ This project automates the provisioning of a **custom AWS Virtual Private Cloud 
 
 ## The Implementation Steps are summarised below:
 
-1️⃣ ### **🔹 Prerequisites**
+1️⃣ ### **Prerequisites**
 
 Ensure you have the following installed:
 
