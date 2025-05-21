@@ -5,15 +5,15 @@ This project automates the provisioning of a **custom AWS Virtual Private Cloud 
 
 ## The Implementation Steps are summarised below:
 
-## **1️⃣ ### **🔹 Prerequisites**
+1️⃣ ### **🔹 Prerequisites**
 
 Ensure you have the following installed:
 
-- **Terraform CLI** → [Download Terraform](https://developer.hashicorp.com/terraform/downloads)
+  - **Terraform CLI** → [Download Terraform](https://developer.hashicorp.com/terraform/downloads)
 
-- **AWS CLI** → [Download AWS CLI](https://aws.amazon.com/cli/)
+  - **AWS CLI** → [Download AWS CLI](https://aws.amazon.com/cli/)
 
-- **Valid AWS Credentials** (`aws configure`)
+  - **Valid AWS Credentials** (`aws configure`)
 
 
 ## **2️⃣ Define Terraform Configuration Files**
@@ -34,7 +34,7 @@ Ensure you have the following installed:
 
 ## **🔹 Conclusion**
 
-### **🔹 Why Automate VPC Creation?**
+  ## **🔹 Why Automate VPC Creation?**
 
 Overall, the **Automation of the provisioning of custom-built VPC with Terraform ensures consistency, scalability, and efficient and faster infrastructure deployment.**
 
