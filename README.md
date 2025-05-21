@@ -1,5 +1,5 @@
 
-# Implement VPC including Public & Private Subnets with associated Internet Gateway and Route Tables
+# Automated Provisioning of VPC including Public & Private Subnets with associated Internet Gateway and Route Tables
 
 Create Virtual Private Cloud (VPC) with specified CIDR
 
